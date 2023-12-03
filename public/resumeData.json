@@ -1,0 +1,95 @@
+{
+    "main": {
+        "name":"Welcome To My First React",
+        "description":"This is a first my project in a React.js, I hoop i will be a better programer in a next year",
+        "github":"https://github.com/yourgentleness",
+        "project":"https://github.com/yourgentleness",
+        "image":"profilepic.jpg",
+        "contactmessage":"Hallo, here i am",
+        "bio":"This in is my biografi This in is my biografi This in is my biografi This in is my biografi This in is my biografi This in is my biografi This in is my biografi This in is my biografi",
+        "email":"aditya.why.why@gmail.com",
+        "phone":"+62 812-121-121",
+        "address":{
+            "street":"Unknown",
+            "city":"Unknown",
+            "state":"Unknown",
+            "zip":"12121"
+        },
+        "resumeDownload":"https://github.com/yourgentleness/PORTO-REACT-APP",
+        "social":[
+            {
+                "name":"facebook",
+                "url":"",
+                "icon":"fa fa-facebook"
+            },
+            {
+                "name":"twitter",
+                "url":"",
+                "icon":"fa fa-twitter"
+            },
+            {
+                "name":"linkedin",
+                "url":"",
+                "icon":"fa fa-linkedin"
+            },
+            {
+                "name":"instagram",
+                "url":"",
+                "icon":"fa fa-instagram"
+            },
+            {
+                "name":"github",
+                "url":"",
+                "icon":"fa fa-github"
+            }
+        ]
+    },
+    "resume":{
+        "skillmassage":"I new in ReactJS but i will do the best for my goal",
+        "education":[
+            {
+                "school":"Unknown",
+                "degree":"Bachelor degree of sistem information",
+                "graduated":"Unknown",
+                "description":"I am want to join in a university"
+            },
+            {
+                "school":"Unknown",
+                "degree":"Sosial",
+                "graduated":"Unknown",
+                "description":"I an not to be a lazy man"
+            }
+        ],
+        "work":[
+            {
+                "company":"Unknown",
+                "title":"Front-end developer ",
+                "year":"Unknown",
+                "description":"I wanna be work as a front-end developer"
+            },
+            {
+                "company":"Unknown",
+                "title":"Front-end developer ",
+                "year":"Unknown",
+                "description":"I wanna join in a start-up"
+            }
+        ],
+        "skills":[
+            {
+                "name":"ReactJS",
+                "level":"70%"
+            }
+        ]
+
+    },
+    "portofolio":{
+        "project":[
+            {
+                "title":"Ongoing",
+                "category":"This porject is Ongoing",
+                "image":"ongoing.jpg",
+                "url":""
+            }
+        ]
+    }
+}
